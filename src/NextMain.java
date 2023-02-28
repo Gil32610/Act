@@ -6,6 +6,7 @@ public class NextMain {
            time.watchMovie();
            Object comedy = Movie.getMovie("c", "Airplane");
            comedy.watchMovie();
+           //aaaaaa
     }
     
 }
